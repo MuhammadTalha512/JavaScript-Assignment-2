@@ -1,0 +1,18 @@
+body{
+    .navbar{
+        background-color: #1d3557;
+    }
+}
+.footer{
+    background-color: #1d3557;
+    color:white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+body{
+background-color: rgb(243, 246, 245);
+
+}
+#login{
+    margin-top: 4px;
+}
